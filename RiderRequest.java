@@ -19,7 +19,7 @@ public class RiderRequest {
         this.destination = destination;
         this.seatsNeeded = seatsNeeded;
 
-        status = "Waiting";
+        this.status = "Waiting";
     }
 
     public void display() {
