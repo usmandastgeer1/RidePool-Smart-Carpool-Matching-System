@@ -44,7 +44,6 @@ public class CarpoolRide {
         if (passengers.isEmpty()) {
             System.out.println("Passengers: No passengers assigned yet");
         } else {
-
             System.out.println("Passengers:");
 
             for (String passenger : passengers) {
